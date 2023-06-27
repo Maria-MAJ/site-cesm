@@ -100,8 +100,8 @@ justify-content:space-evenly;
 
     .contato{
         color:white   ;
-        font: size 25px  ;
-        padding: 5px   ;
+        font-size: 25px  ;
+        padding: 5px 0 0  ;
           
 
     }
