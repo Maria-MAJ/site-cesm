@@ -91,9 +91,11 @@ justify-content:space-evenly;
     padding: 10px 0 0 }
 
 
-.imagem_rodape {
+.imagemrodape{
     width:10%
     padding: 5px 0 0 ;
+    text-alingn; center;
+    display:inlin-block;
 
 .contato{
     color:white   ;
