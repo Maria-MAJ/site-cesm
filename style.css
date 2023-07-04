@@ -95,16 +95,15 @@ justify-content:space-evenly;
     width:10%
     padding: 5px 0 0 ;
 
-    .contato {
-        color:white   ;
-        font-size: 25px  ;
-        padding: 5px 0 0  ;
-          
+.contato{
+    color:white   ;
+    font-size: 25px  ;
+    padding: 5px 0 0  ;
+}
 
-    }
-    
+.rodape{
+    background-color:rgb(78, 190, 194);
+    text-align: center;
 
-    .icones {
-        width: 30%;
-    }
-    
+}
+
